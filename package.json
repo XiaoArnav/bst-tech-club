@@ -1,0 +1,30 @@
+{
+  "name": "bst-tech-club",
+  "version": "1.0.0",
+  "description": "A modern, responsive, high-performance web platform built with Clean Minimalist & Modern Academic design principles for the BST Tech Club, Department of Computer Science & Engineering (AI & ML).",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "dev": "npx http-server -p 8080",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoArnav/bst-tech-club.git"
+  },
+  "keywords": [
+    "tech-club",
+    "cse",
+    "ai-ml",
+    "student-portal"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaoArnav/bst-tech-club/issues"
+  },
+  "homepage": "https://github.com/XiaoArnav/bst-tech-club#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
